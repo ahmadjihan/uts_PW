@@ -1,0 +1,11 @@
+body {
+  scroll-behavior: smooth;
+}
+
+img {
+  object-fit: cover;
+}
+
+footer{
+    font-size: 14px;
+}
